@@ -1,0 +1,2 @@
+ehhhh_duration_type=continuous
+ehhhh_min_dbfs=-41.26

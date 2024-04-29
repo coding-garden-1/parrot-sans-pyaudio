@@ -1,0 +1,2 @@
+4mm_duration_type=continuous
+4mm_min_dbfs=-39.59

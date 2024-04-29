@@ -1,0 +1,2 @@
+4mmmmmm_duration_type=continuous
+4mmmmmm_min_dbfs=0.0

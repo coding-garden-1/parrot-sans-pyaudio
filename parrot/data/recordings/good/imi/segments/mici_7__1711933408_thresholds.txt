@@ -1,0 +1,2 @@
+imi_duration_type=continuous
+imi_min_dbfs=-43.52

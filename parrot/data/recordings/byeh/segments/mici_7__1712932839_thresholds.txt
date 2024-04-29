@@ -1,0 +1,2 @@
+byeh_duration_type=continuous
+byeh_min_dbfs=-29.83

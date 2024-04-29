@@ -1,0 +1,2 @@
+meowwwww_duration_type=continuous
+meowwwww_min_dbfs=-41.45

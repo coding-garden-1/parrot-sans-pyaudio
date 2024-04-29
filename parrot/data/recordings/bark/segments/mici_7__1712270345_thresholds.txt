@@ -1,0 +1,2 @@
+bark_duration_type=continuous
+bark_min_dbfs=-36.24

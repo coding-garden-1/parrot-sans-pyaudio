@@ -1,0 +1,2 @@
+mouthclick_duration_type=continuous
+mouthclick_min_dbfs=-36.36

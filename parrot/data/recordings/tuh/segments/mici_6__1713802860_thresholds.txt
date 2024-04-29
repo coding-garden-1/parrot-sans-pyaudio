@@ -1,0 +1,2 @@
+tuh_duration_type=discrete
+tuh_min_dbfs=-34.72
